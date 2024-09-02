@@ -4,6 +4,7 @@
     height: 100px;
     width: 100px;
     position: relative;
+    transition: auto 1s ease-in-out;
 }
 
 .box2{
