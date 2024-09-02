@@ -8,7 +8,7 @@ console.log(h);
 let viewWidth = window.innerWidth - 200;
 let viewHeight = window.innerHeight - 200;
 console.log(viewWidth);
-console.log(viewWidth);
+console.log(viewHeight);
 
 setInterval(() => {
   //box 1
